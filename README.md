@@ -64,3 +64,6 @@ json
 
 Доступ
 http://localhost:8000/admin/
+
+Логин:admin
+Пароль:qwerty12345ASD
